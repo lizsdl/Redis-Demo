@@ -1,1 +1,8 @@
-gihub萨法
+#include<stdio.h>
+
+int main()
+{
+
+	printf("hello world\n");
+
+}
