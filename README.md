@@ -5,3 +5,6 @@ This is Repo Link
 https://github.com/sewenew/redis-plus-plus
 
 After compiling the demo and running it, the subscribed redis trigger callback will be received.
+
+
+This method of using this library redis++ in Gtja Front Failback processing
